@@ -30,7 +30,6 @@ COPY --from=builder /app/server.ts ./server.ts
 COPY --from=builder /app/server ./server
 
 RUN mkdir -p /app/data/refs /app/data/outputs
-VOLUME ["/app/data"]
 
 EXPOSE 3000
 
