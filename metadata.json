@@ -1,0 +1,6 @@
+{
+  "name": "Kinetik Studio",
+  "description": "Platform full-stack Ref-to-Video ComfyUI (MiniMax H3) via WebSocket dengan manajemen akun, saldo 1 kredit/detik, dan pembayaran otomatis Midtrans.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
